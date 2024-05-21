@@ -1,6 +1,6 @@
 # efsExplorer
 
-This is concept for OLAP analysis of cloud storage pricing data, leveraging the AWS Bulk Pricing API.
+[EFS Explorer](https://github.com/pgaljan/efsExplorer/blob/main/efsExplorer.xlsx) is concept for OLAP analysis of cloud storage pricing data, leveraging the AWS Bulk Pricing API.
 
 To refresh, navigate to Data>Refresh All.  If you are prompted for an authentication type, select "Anonymous".
 
